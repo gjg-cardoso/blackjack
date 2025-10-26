@@ -57,7 +57,10 @@ John      : 3♠|9♥|6♦
 The dealer: 2♠|A♠|Q♠|K♣
 Bust!
 John wins this round and receives $20!
-Keep playing? Yes (Y/y) or No (N/n): 
+Keep playing? Yes (Y/y) or No (N/n): n
+End of the game! 
+Rounds played: 2 
+John left with $50!
 ```
 ## 🧰 Requirements
 - Python 3
